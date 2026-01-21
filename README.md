@@ -1,4 +1,6 @@
-This project is made by myself(Raju shahi) and I don't like to work in a team, but I know to grow in the It industry I should be a team player
+This project is made by myself(Raju shahi) and I don't like to work in a team, but I know to grow in the It industry I should be a team player,
+
+after the first change, I have created a new branch to learn how to merge a local branch to the main pipeline
 
 AI Code Review Assistant
 
